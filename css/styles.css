@@ -1,0 +1,38 @@
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 4rem;
+}
+
+.navbar-nav {
+    font-size: 1.25rem;
+}
+
+body {
+    background-color:  #00AFF0;
+}
+
+.container-fluid {
+    padding: 2% 15%;
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1.25;
+    font-size: 5rem;
+}
+
+.playDown {
+    margin-left: 5%;
+}
+
+.btn {
+    margin-top: 5%;
+}
+
+.col-lg-6 {
+    margin-top: 5%;
+}
+
+.introPageBigPic {
+    width: 100%;
+}
