@@ -39,6 +39,24 @@ h1 {
 
 #features {
     font-family: 'Lobster', cursive;
-    padding: 2% 15%;
+    padding: 5% 15%;
     text-align: center;
+    background-color: white;
+}
+
+h3 {
+    font-weight: bold;
+}
+p {
+    color: darkgray;
+    font-weight: lighter;
+    font-family: 'Ubuntu', sans-serif;
+}
+.feature-icon {
+    color: #00AFF0;
+    margin-bottom: 1rem;
+}
+
+.feature-icon:hover {
+    color: #004cf0;
 }
