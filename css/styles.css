@@ -1,3 +1,61 @@
+@media (max-width: 992px) {
+    
+    .introPageBigPic {
+        position: relative;
+        top: 10%;
+        transform: rotate(0deg);
+    }
+    
+    #title {
+        text-align: center;
+    }
+}
+
+#title {
+    background-color: #00AFF0;
+}
+
+#features {
+    position: relative;
+    font-family: 'Lobster', cursive;
+    padding: 5% 15%;
+    text-align: center;
+    background-color: white;
+}
+
+#testimonials {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    background-color: #00AFF0;
+}
+
+#press {
+    font-family: 'Lobster', cursive;
+    padding: 2.5% 15%;
+    text-align: center;
+    background-color: #00AFF0;
+}
+
+#pricing {
+    background-color: white;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 2.5% 15%;
+}
+
+#cta {
+    padding: 5% 15%;
+    text-align: center;
+    background-color: #00AFF0;
+}
+
+#footer {
+    background-color: white;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 1% 15% 0;
+}
+
 .navbar-brand {
     font-family: 'Lobster', cursive;
     font-size: 4rem;
@@ -7,9 +65,7 @@
     font-size: 1.25rem;
 }
 
-body {
-    background-color:  #00AFF0;
-}
+
 
 .container-fluid {
     padding: 2% 15%;
@@ -34,14 +90,9 @@ h1 {
 }
 
 .introPageBigPic {
-    width: 100%;
-}
-
-#features {
-    font-family: 'Lobster', cursive;
-    padding: 5% 15%;
-    text-align: center;
-    background-color: white;
+    position: relative;
+    left: 5%;
+    transform: rotate(25deg);
 }
 
 h3 {
@@ -68,21 +119,8 @@ p {
     color: #004cf0;
 }
 
-#testimonials {
-    font-family: 'Lobster', cursive;
-    text-align: center;
-    background-color: #00AFF0;
-}
-
 .carousel-item {
     padding: 2.5% 15%;
-}
-
-#press {
-    font-family: 'Lobster', cursive;
-    padding: 2.5% 15%;
-    text-align: center;
-    background-color: #00AFF0;
 }
 
 .press-logo {
@@ -98,13 +136,6 @@ p {
 
 .testimonial-pic-disc {
     font-family: 'Ubuntu', sans-serif;
-}
-
-#pricing {
-    background-color: white;
-    text-align: center;
-    font-family: 'Ubuntu', sans-serif;
-    padding: 2.5% 15%;
 }
 
 .pricingOptions {
