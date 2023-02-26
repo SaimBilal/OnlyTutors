@@ -47,6 +47,13 @@ h1 {
 h3 {
     font-weight: bold;
 }
+
+h2 {
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 p {
     color: darkgray;
     font-weight: lighter;
@@ -59,4 +66,55 @@ p {
 
 .feature-icon:hover {
     color: #004cf0;
+}
+
+#testimonials {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    background-color: #00AFF0;
+}
+
+.carousel-item {
+    padding: 2.5% 15%;
+}
+
+#press {
+    font-family: 'Lobster', cursive;
+    padding: 2.5% 15%;
+    text-align: center;
+    background-color: #00AFF0;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 2%;
+}
+
+.testimonial-pic {
+    width: 12%;
+    border-radius: 100%;
+    margin: 2rem;
+}
+
+.testimonial-pic-disc {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#pricing {
+    background-color: white;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 2.5% 15%;
+}
+
+.pricingOptions {
+    margin-top: 2rem;
+}
+
+.card-header {
+    font-family: 'Lobster', cursive;
+}
+
+.pricingCard {
+    margin: 15px;
 }
